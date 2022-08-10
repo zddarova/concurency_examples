@@ -8,7 +8,7 @@ import 'package:concurency_examples/quiz/quiz_1.dart';
 import 'package:concurency_examples/quiz/quiz_2.dart';
 import 'package:concurency_examples/quiz/quiz_3.dart';
 
-// todo: uncomment method calls by 1 and check
+// todo: uncomment function calls by 1 and check
 void main() {
   // syncExample();
   // asyncExample();
